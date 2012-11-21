@@ -22,4 +22,5 @@ Use
 3. [more ckeditor Plugins][more]
 [more]: http://xdan.ru/project/ckplugins/
 [used1]: https://github.com/xdan/ck_stat
+[author]: http://xdan.ru/user/profile/Leroy
 [home]: http://xdan.ru/ckeditor-on-select-event.html
